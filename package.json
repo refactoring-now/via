@@ -1,0 +1,22 @@
+{
+  "name": "via",
+  "version": "0.1.0",
+  "description": "An better and faster web framework with Node.js &amp; Koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/refactoring-now/via.git"
+  },
+  "author": "yangkun <godkun666@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/refactoring-now/via/issues"
+  },
+  "homepage": "https://github.com/refactoring-now/via#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
